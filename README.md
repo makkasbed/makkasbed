@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @makkasbed
-- 👀 I’m interested in Java, Javascript, PHP, Dart(Flutter), Python and C# Projects
+- 👀 I’m interested in Java, Javascript, TypeScript(Angular) PHP, Dart(Flutter), Python and C# Projects
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on Open Source projects
 - 📫 Reach me on twitter @makkasbed or email: aluta182004@gmail.com
