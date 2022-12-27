@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adu Asare Bediako
 - 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on implementing solutions in the cloud for clients.
+- 💞️ I’m looking to collaborate on implementing solutions in the cloud and on-prem for clients.
 
 ### Skills
 
