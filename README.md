@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @makkasbed
-- 👀 I’m interested in Java, Javascript, TypeScript(Angular) PHP, Dart(Flutter), Python and C# Projects
+- 👋 Hi, I’m Adu Asare Bediako
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on implementing solutions in the cloud for clients.
-- 📫 Reach me on twitter @makkasbed or email: aluta182004@gmail.com
 
 ### Skills
 
@@ -36,6 +34,10 @@
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 </p>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/makkasbed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/adu-asare-bediako-32424119" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/makkasbed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 <!---
 makkasbed/makkasbed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
